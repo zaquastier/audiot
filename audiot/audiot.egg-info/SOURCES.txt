@@ -1,5 +1,0 @@
-setup.py
-audiot.egg-info/PKG-INFO
-audiot.egg-info/SOURCES.txt
-audiot.egg-info/dependency_links.txt
-audiot.egg-info/top_level.txt

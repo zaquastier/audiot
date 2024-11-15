@@ -4,5 +4,13 @@ setup(
     name='audiot',
     version='0.1.0',
     packages=find_packages(include=['audiot', 'audiot.*']),
-    install_requires=[],
+    install_requires=[
+        'numpy',
+        'matplotlib',
+        'pot',
+        'scipy',
+        'librosa',
+        'ipywidgets',
+        'IPython'
+    ],
 )

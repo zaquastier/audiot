@@ -1,0 +1,9 @@
+__pycache__/
+audiot/__pycache__/
+audiot/audiot.egg-info/
+.venv
+archive/
+*.egg-info
+tmp/
+test*
+.DS_Store
